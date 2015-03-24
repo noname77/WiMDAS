@@ -1,0 +1,20 @@
+build/XC16_24FJ128GC006/debug/main.o:  \
+main.c  \
+system.h  \
+user.h  \
+ HardwareProfile.h  \
+USB/usb.h  \
+USB/../system.h  \
+USB/usb_config.h  \
+ USB/usb_common.h  \
+USB/usb_ch9.h  \
+USB/usb_device.h  \
+USB/usb_hal_pic24f.h  \
+ USB/usb_my.h  \
+USB/usb_device_cdc.h  \
+USB/usb.h  \
+ADC_pipeline.h  \
+lea6t.h  \
+rtc.h  \
+ commands.h  \
+xprintf.h 
