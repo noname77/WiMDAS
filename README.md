@@ -1,5 +1,5 @@
 # WiMDAS
-MPLAB X project for PIC24FJ128GC006 uC. may contain useful ADC, DMA, I2C, SPI, SD card, USB, IC ,NRF24L01+, U-BLOX LEA6-T, NAND Flash configs and code. Free to use for personal and hobby projects. Contact if you want to profit from it ;)
+MPLAB X project for PIC24FJ128GC006 uC. may contain useful ADC, DMA, I2C, SPI, SD card, USB, IC ,NRF24L01+, U-BLOX LEA6-T, NAND Flash configs and code. Free to use for personal and hobby projects! Contact if you want to profit from it or help me develop it further ;)
 
 TODO: what follows is just a draft and probably not fully complete. still worth giving it a go
 
@@ -17,4 +17,4 @@ Tools -> revert to MPLAB mode
 
 mplab should then see the pickit and download whatever software it wants.
 
-if you seem to have connection to the programmer, but you still cant program the chip, go to project properties and make sure PICkit 3 is selected and not the particular device with serial number.
+if you seem to have connection to the programmer, but you still cant program the chip, go to project properties and make sure "PICkit 3" is selected and not the particular device with serial number.
